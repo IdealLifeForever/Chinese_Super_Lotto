@@ -32,7 +32,7 @@ CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table \ 中国体育彩
 
 
 
-如果公布的结果能够帮助到你, 能够提高您的灵感, 那我们也会感到荣幸!
+如果公布的结果能够帮助到你, 能够给您带来更多的灵感, 那我们也会感到荣幸!
 
 如果您因此提高了幸运值, 或者因此中了大奖, 请一定把这个好消息分享给我们!!
 
@@ -64,7 +64,7 @@ That is our passion .
 
 We also welcome valuable insights or data contributions via the Issues section, to help us improve this alternative-thinking AI model and also the strategies pools.
 
-If the results we release can inspire you or provide useful assistance, we’ll consider that a great honor!
+If the results we release can help to give your more inspire, or provide useful assistance, we’ll consider that as a great honor!
 
 If it happens because of it, to increase your luck points or to you even win a jackpot, please don’t forget to share the good news with us!
 
