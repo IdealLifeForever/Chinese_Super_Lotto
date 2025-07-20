@@ -64,7 +64,7 @@ That is our passion .
 
 We also welcome valuable insights or data contributions via the Issues section, to help us improve this alternative-thinking AI model and also the strategies pools.
 
-If the results we release can help to give your more inspire, or provide useful assistance, we’ll consider that as a great honor!
+If the results we release can be helped giving you more inspires, or provide useful assistance, we’ll consider that as a great honor!
 
 If it happens because of it, to increase your luck points or to you even win a jackpot, please don’t forget to share the good news with us!
 
