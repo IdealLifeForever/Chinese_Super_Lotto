@@ -28,7 +28,7 @@ CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table \ 中国体育彩
 
 
 这是我们的兴趣, 
-我们也欢迎在Issue里提供各种有价值信息,来完善这个AI模型和策略
+我们也欢迎在Discussions里提供各种有价值信息,来完善这个AI模型和策略
 
 
 
@@ -62,7 +62,8 @@ Through these real-world examples, we aim to refine this alternative-thinking AI
 
 That is our passion .
 
-We also welcome valuable insights or data contributions via the Issues section, to help us improve this alternative-thinking AI model and also the strategies pools.
+We also welcome valuable insights or data contributions via the 
+Discussions section, to help us improve this alternative-thinking AI model and also the strategies pools.
 
 If the results we release can be helped giving you more inspires, or provide useful assistance, we’ll consider that as a great honor!
 
