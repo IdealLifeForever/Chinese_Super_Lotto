@@ -1,9 +1,12 @@
 # Chinese_Super_Lotto
-CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table \ 中国体育彩票超级大乐透 AI推导参考表 说明
+
+<!--ts-->
 
 <p align="center">
 <a href="/docs/README_EN.md">English</a> | 简体中文
 </p>
+
+中国体育彩票超级大乐透 AI推导参考表 说明
 
 <!--ts-->
 
