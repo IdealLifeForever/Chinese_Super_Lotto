@@ -1,10 +1,12 @@
 # Chinese_Super_Lotto
 
-CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table
-
 <p align="center">
 <a href="../README.md">简体中文</a> | English
 </p>
+
+<!--ts-->
+
+CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table
 
 <!--ts-->
 
