@@ -1,4 +1,4 @@
-# Chinese_Super_Lotto
+# AI推导参考
 
 <!--ts-->
 
