@@ -18,14 +18,6 @@ Our goal is to observe the performance of specific types of AI models in lottery
 
 We are fully aware that with current mathematical tools, statistical methods, and algorithmic technologies, it is impossible to predict lottery outcomes with complete accuracy.
 
-
-
-We are a small group of individuals brought together by a shared interest.
-
-The motivation behind this project is to explore how an alternative AI model performs when applied to real-world random events, which based on a different way of thinking, that distinct from existing brute-force probabilistic models.
-
-Our goal is to observe the performance of specific types of AI models in lottery prediction scenarios, particularly by focusing on how accurate certain reference indicators (or "strategies") are, and to what extent can the models describe certain features.
-
 We are fully aware that with current mathematical tools, statistical methods, and algorithmic technologies, it is impossible to predict lottery outcomes with complete accuracy.
 Some believe the lottery is entirely random, others think certain features tend to converge toward fixed values, while some suggest the lottery is controlled by some unknown high-dimensional deity or manipulated by human hands.
 
