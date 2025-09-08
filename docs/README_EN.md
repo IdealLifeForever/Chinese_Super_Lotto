@@ -71,5 +71,7 @@ Simple Version (Non-Technical Explanation)
 
 Data Storage Instructions
 1.1 The data is stored in the data folder. The data format can be downloaded and opened in Excel.
+<img width="3390" height="924" alt="image" src="https://github.com/user-attachments/assets/d624b97e-3fad-4597-959a-1599e53b2e2f" />
+
 
 ## Project Application Scope
