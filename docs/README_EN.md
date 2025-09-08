@@ -67,5 +67,9 @@ This project aims to make life more interesting and does not encourage gambling 
 
 This project is a supplementary product of our AI model development and can be considered a "sweet" application. You should be aware that AI models have broad applications and are not limited to lottery scenarios.
 ## Data Format  
+Simple Version (Non-Technical Explanation)
+
+Data Storage Instructions
+1.1 The data is stored in the data folder. The data format can be downloaded and opened in Excel.
 
 ## Project Application Scope
