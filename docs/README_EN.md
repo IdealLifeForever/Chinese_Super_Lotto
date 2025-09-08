@@ -48,3 +48,9 @@ If the results we release can be helped giving you more inspires, or provide use
 If it happens because of it, to increase your luck points or to you even win a jackpot, please don’t forget to share the good news with us!
 
 Wishing you the jackpot of your dreams!
+
+## Project Value  
+
+## Data Format  
+
+## Project Application Scope
