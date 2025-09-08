@@ -117,5 +117,7 @@ Therefore, the best approach is to upload a small amount of condensed results wi
 
 Q2: What do the colored numbers in the Excel spreadsheet mean?
 For non-technical users, just be sure to check that the colored numbers are genuine. The numbers for the China Sports Lottery Super Lotto are represented as follows:
+<img width="953" height="42" alt="image" src="https://github.com/user-attachments/assets/383488da-e569-4929-9443-58b79a9d6800" />
+
 
 ## Project Application Scope
