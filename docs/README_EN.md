@@ -15,8 +15,7 @@ CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table
 [Data Format](#data-format)  
 [Project Application Scope](#project-application-scope)
 
-##project-background
-
+## Project Background
 We are a small group of individuals brought together by a shared interest.
 
 The motivation behind this project is to explore how an alternative AI model performs when applied to real-world random events, which based on a different way of thinking, that distinct from existing brute-force probabilistic models.
