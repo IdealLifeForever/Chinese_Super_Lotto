@@ -83,6 +83,30 @@ Users are generally only interested in the predictions for the latest draw. You 
 2. Excel table description
 ![biaogesuoming](https://github.com/user-attachments/assets/49978277-ed74-4db5-85e1-707b08e0d3f0)
 
+(The image is a high-resolution version and may display slowly under certain network conditions. Click to enlarge.)
+
+Brief Explanation:
+The columns represent the data for each period.
+The colors represent the actual numbers for each period.
+The leftmost column represents the calculated data and numbers for the latest period.
+You can make your own inferences based on the actual number performance and the calculated data.
+Each table represents the results of each strategy set.
+Specific Explanation:
+
+2.1) Box 1 in the example image indicates:
+The top row of the table represents the period number, with the leftmost row representing the latest period. In the example image, [25079] represents the latest period, and [25079+1] represents the derivation of the latest period for the next period.
+
+2.2) Box 2 in the example image indicates:
+The leftmost column of the table represents the derivation of the latest period for the next period, arranged from largest to smallest.
+
+2.3) Box 3 in the example image indicates:
+The derivation of the latest period for the next period, Derived Numbers
+
+2.4) Box 4 in the example image indicates:
+Numbers in the derived period, latest period, previous periods, and derived values ​​using the same strategy.
+
+2.5) Box 5 in the example image indicates:
+Derived values ​​for each number pair from previous periods. The colored numbers represent the actual numbers drawn in each period. The numbers are on the far left of the row content section (note that Excel automatically adds row numbers to the content section for sorting).
 
 
 ## Project Application Scope
