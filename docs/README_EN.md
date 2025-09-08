@@ -9,13 +9,11 @@
 CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table
 
 <!--ts-->
-[Project Background](#Project Background)
 
-[Project Value](#Project Value)
-
-[Data Format](#Data Format)
-
-[Project Application Scope](#Project Application Scope)
+[Project Background](#project-background)  
+[Project Value](#project-value)  
+[Data Format](#data-format)  
+[Project Application Scope](#project-application-scope)
 
 #Project Background
 
