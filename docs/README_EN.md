@@ -81,6 +81,7 @@ Users are generally only interested in the predictions for the latest draw. You 
 <img width="4755" height="2688" alt="image" src="https://github.com/user-attachments/assets/c6da7ca3-cf3b-4b13-8f99-661e53d3e5ba" />
 
 2. Excel table description
+![biaogesuoming](https://github.com/user-attachments/assets/49978277-ed74-4db5-85e1-707b08e0d3f0)
 
 
 
