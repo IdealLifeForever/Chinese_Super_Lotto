@@ -124,3 +124,24 @@ Non-technical users don't need to worry about number positions; these are covere
 
 
 ## Project Application Scope
+Brief Version
+
+This model is currently suitable for data inference, not for graphical reasoning.
+
+This model is not only suitable for a specific lottery, but also for any lottery with historical data, such as Powerball and Mega Millions.
+
+This model is not only suitable for lottery, but also for any lottery, such as horse racing.
+
+This model is not only suitable for speculative gambling scenarios. On the contrary, in other scenarios with rules and large data volumes, with the same computing power, it can produce more accurate inference results, such as quantitative analysis and classification analysis.
+
+Technical Explanation
+
+1. This model's paradigm is framework + dynamic strategy + data reasoning.
+
+2. This model has no fixed restrictions on data quantity or format, nor on strategy type.
+
+3. The model essentially combines existing strategies to observe data features through AI models.
+
+Through classification and prediction strategies, the AI ​​model's powerful ability to understand unknown patterns and infer massive amounts of data can be used to infer the likelihood of future data.
+
+As data and strategies continue to grow, strategy combinations can be selected and customized for different scenarios.
