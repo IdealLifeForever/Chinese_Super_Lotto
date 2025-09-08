@@ -78,6 +78,9 @@ Users are generally only interested in the predictions for the latest draw. You 
 <img width="4778" height="802" alt="image" src="https://github.com/user-attachments/assets/3ab7b2e1-85dd-4ba1-8d30-bd22e645a485" />
 
 1.3 The latest issue contains data derived using various methods. Each table corresponds to a derivation method, which has been condensed into four major categories, each with two subcategories.
+<img width="4755" height="2688" alt="image" src="https://github.com/user-attachments/assets/c6da7ca3-cf3b-4b13-8f99-661e53d3e5ba" />
+
+
 
 
 ## Project Application Scope
