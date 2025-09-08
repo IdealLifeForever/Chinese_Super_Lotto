@@ -51,6 +51,21 @@ Wishing you the jackpot of your dreams!
 
 ## Project Value  
 
+If your luck value is a when performing manual calculations, using this AI model can amplify your luck value, reducing the burden of manual calculations, given the same strategy.
+
+As the AI ​​model is developed and refined, the strategy collection for this project will continue to grow (currently over 100).
+
+A wealth of data is available for reference.
+
+⚠️ Important Note
+
+Note:
+
+This cannot achieve 100% accuracy. Any claims of exaggerated accuracy increases are fraudulent.
+
+This project aims to make life more interesting and does not encourage gambling addiction or the use of data as a basis for increased betting.
+
+This project is a supplementary product of our AI model development and can be considered a "sweet" application. You should be aware that AI models have broad applications and are not limited to lottery scenarios.
 ## Data Format  
 
 ## Project Application Scope
