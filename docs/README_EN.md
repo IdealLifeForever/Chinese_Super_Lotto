@@ -72,10 +72,12 @@ Simple Version (Non-Technical Explanation)
 Data Storage Instructions
 1.1 The data is stored in the data folder. The data format can be downloaded and opened in Excel.
 <img width="3390" height="924" alt="image" src="https://github.com/user-attachments/assets/d624b97e-3fad-4597-959a-1599e53b2e2f" />
-1.2 The data folder contains statistics provided by the AISI model for each draw, along with predictions for the next draw, which haven't been drawn yet.
 
+1.2 The data folder contains statistics provided by the AISI model for each draw, along with predictions for the next draw, which haven't been drawn yet.
 Users are generally only interested in the predictions for the latest draw. You can find the latest draw by looking at the markers in the image.
 <img width="4778" height="802" alt="image" src="https://github.com/user-attachments/assets/3ab7b2e1-85dd-4ba1-8d30-bd22e645a485" />
+
+1.3 The latest issue contains data derived using various methods. Each table corresponds to a derivation method, which has been condensed into four major categories, each with two subcategories.
 
 
 ## Project Application Scope
