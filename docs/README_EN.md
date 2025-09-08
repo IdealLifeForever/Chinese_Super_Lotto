@@ -9,6 +9,15 @@
 CHINA SPORTS LOTTERY Super Lotto AI Derivation Reference Table
 
 <!--ts-->
+[Project Background](#Project Background)
+
+[Project Value](#Project Value)
+
+[Data Format](#Data Format)
+
+[Project Application Scope](#Project Application Scope)
+
+#Project Background
 
 We are a small group of individuals brought together by a shared interest.
 
