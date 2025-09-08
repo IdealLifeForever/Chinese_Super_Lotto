@@ -108,5 +108,14 @@ Numbers in the derived period, latest period, previous periods, and derived valu
 2.5) Box 5 in the example image indicates:
 Derived values ​​for each number pair from previous periods. The colored numbers represent the actual numbers drawn in each period. The numbers are on the far left of the row content section (note that Excel automatically adds row numbers to the content section for sorting).
 
+Detailed Version (Technical Explanation Version)
+Q1: Why not provide the final, comprehensive data, synthesizing it into a "ultimate" spreadsheet?
+Each method may contain "hundreds of basic algorithms + dozens of inference methods + several independent neural network models." Because the various methods are aggregated, the resulting data for each issue is enormous, approximately 10GB. This data cannot be uploaded simultaneously. We can only condense it and upload the final results from a few broad categories.
+Currently, the ultimate method is not yet accurate enough and requires further refinement.
+Combining it into a single version will lose a significant amount of information.
+Therefore, the best approach is to upload a small amount of condensed results within a manageable range, providing as much information as humanly possible. These spreadsheets can also provide a reference for users making their final choices.
+
+Q2: What do the colored numbers in the Excel spreadsheet mean?
+For non-technical users, just be sure to check that the colored numbers are genuine. The numbers for the China Sports Lottery Super Lotto are represented as follows:
 
 ## Project Application Scope
